@@ -9,6 +9,12 @@ This project was modified from [freechat](https://github.com/eNkru/freechat),fix
 npm install electron
 npm start
 ```
+## Compile
+```js
+npm run dist:linux
+npm run dist:win
+npm run dist:dist:macOS
+```
 ---
   
 ![image](https://user-images.githubusercontent.com/129872486/230012642-8bffd6e6-6385-4d7b-bc18-b08034ff42ed.png)  
