@@ -32,8 +32,7 @@ function RequestHook() {
 }
 
 if (app.requestSingleInstanceLock()) {
-    ListenCookieChange();
-    LoadCookie();
+
     app.whenReady().then(() => {
         RequestHook();
 
