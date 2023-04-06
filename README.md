@@ -13,7 +13,7 @@ npm start
 ```js
 npm run dist:linux
 npm run dist:win
-npm run dist:dist:macOS
+npm run dist:macOS
 ``` 
 ## Support me
 ![mm_facetoface_collect_qrcode_1680753871495](https://user-images.githubusercontent.com/129872486/230269507-6b448381-c96b-41b4-ab65-06f6bbb8ce38.png)  
