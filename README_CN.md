@@ -15,6 +15,8 @@ npm run dist:linux
 npm run dist:win
 npm run dist:dist:macOS
 ```
+## 支持我
+![mm_facetoface_collect_qrcode_1680753871495](https://user-images.githubusercontent.com/129872486/230269748-8bbbbdea-cbc6-413f-9ec3-119d44a5c4f5.png)
 ---
   
 ![image](https://user-images.githubusercontent.com/129872486/230012642-8bffd6e6-6385-4d7b-bc18-b08034ff42ed.png)  
